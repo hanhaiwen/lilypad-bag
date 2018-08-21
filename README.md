@@ -36,6 +36,6 @@ A RGB-LED on the outside indicates the temperature inside. Based on the Lilypad 
   * Test the programming sketch.
   * Debug, debug, debug – I realized that the LED example code didn't match the colours I got.
   * Sew the components onto the bag/shirt/whatever. Debug again if necessary – I accidentally sewed the + pin of the Temperature sensor to pin 5.
- * Insulate the exposed thread with nail polish and secure knots.
- * Use hot glue as a diffusor on the LED.
- * ENJOY!
+  * Insulate the exposed thread with nail polish and secure knots.
+  * Use hot glue as a diffusor on the LED.
+  * ENJOY!
