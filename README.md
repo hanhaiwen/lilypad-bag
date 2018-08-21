@@ -1,5 +1,6 @@
 # Lilypad-Bag with temperature control
 A RGB-LED on the outside indicates the temperature inside. Based on the Lilypad Arduino SimpleSnap.
+![Bag with LED on red](/Pictures/Lilypad-Bag.jpeg)
 
 ## Components used
 * [Lilypad Arduino SimpleSnap](https://store.arduino.cc/lilypad-arduino-simplesnap)
@@ -22,6 +23,7 @@ A RGB-LED on the outside indicates the temperature inside. Based on the Lilypad 
 * I used the Lilypad SimpleSnap because the microcontroller board is detachable, so I can still wash the bag. It also features a switch and a rechargeable battery, otherwise you would need additional components for the power supply, like a [Coin Cell Battery Holder](https://www.sparkfun.com/products/13883) and a coin cell.
 * The Lilypad SimpleSnap requires the FTDI cable instead of a regular USB cable. While it looks confusing, it's pretty easy to use: There are little labels on the Lilypad (B for black and G for green) to help you connect it with the right orientation.
 * The temperature board is sewed on with the actual sensor facing the fabric because I don't want to damage it by accident. Of course, it's less acurate this way.
+![Electronics on the inside with Nail polish](/Pictures/Nail-polish.jpeg)
 * I started this project five years ago and didn't get around to finish it for a long time. Due to chronic illness I had little energy and my first idea was way too complicated and useless. Then I finally sat down, reduced it to the mere basics and completed it in bits:
   * Test the single components with the example code from the tutorials.
   * Map out all the components on paper.
