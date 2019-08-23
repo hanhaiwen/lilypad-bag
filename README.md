@@ -4,7 +4,7 @@ A RGB-LED on the outside indicates the temperature inside. Based on the Lilypad 
 ![Bag with LED on red](/Pictures/Lilypad-Bag.jpeg)
 
 ## Components used
-* [Lilypad Arduino SimpleSnap](https://store.arduino.cc/lilypad-arduino-simplesnap)
+* [Lilypad Arduino SimpleSnap](https://www.arduino.cc/en/Main.ArduinoLilyPadSimpleSnap)
 * [Lilypad Temperature Sensor](https://www.sparkfun.com/products/8777)
 * [LilyPad Tri-Color LED](https://www.sparkfun.com/products/8467)
 * [FTDI Cable](https://www.sparkfun.com/products/9718) – to upload the code
